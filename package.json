@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@heroku.com:thawing-bastion-2770.git"
+    "url": "git@github.com:leonardorb/nodejs-twitterbot.git"
   },
   "keywords": [
     "twitter",
